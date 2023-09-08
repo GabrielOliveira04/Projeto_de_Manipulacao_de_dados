@@ -1,7 +1,7 @@
 # Projeto_de_Manipulacao_de_dados
 ## Projeto de Manipulação de Dados de Jogadores de Futebol
 
-      Este projeto foi desenvolvido para realizar a manipulação de dados de jogadores de futebol a partir de um arquivo de texto. Ele utiliza a linguagem de programação Java e a Stream API para facilitar o processamento e análise dos dados. O código é organizado de forma a permitir diversas operações, incluindo:
+#### Este projeto foi desenvolvido para realizar a manipulação de dados de jogadores de futebol a partir de um arquivo de texto. Ele utiliza a linguagem de programação Java e a Stream API para facilitar o processamento e análise dos dados. O código é organizado de forma a permitir diversas operações, incluindo:
 
     Verificação da Existência do Arquivo: O método verificarArquivoExiste verifica se o arquivo "jogadores.txt" existe no caminho especificado.
 
@@ -12,6 +12,7 @@
         imprimirJogadoresTime: Imprime jogadores de um time específico.
         imprimirJogadoresTimeGols: Imprime jogadores de um time com mais de 10 gols marcados.
 
+  
     Agrupamento de Jogadores por Time: O método agruparJogadoresPorTime ordena e imprime jogadores agrupados por time.
 
     Cálculo da Média de Idades: O método calcularMedia calcula a média de idades dos jogadores.
