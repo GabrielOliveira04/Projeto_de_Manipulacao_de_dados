@@ -1,0 +1,8 @@
+Gabriel Oliveira,Atacante,25,vasco,10
+joao Oliveira,Lateral,230,flamengo,15
+jose farias,Atacante,25,palmeira,13
+jorge Oliveira,meio,22,sao paulo,1
+francisco,Atacante,21,red bull,0
+victor farias,goleiro,20,botafogo,3
+bruno,Atacante,25,vasco,5
+felipel del Oliveira,Atacante,25,vasco,3
